@@ -1,5 +1,5 @@
 # nodejsapi-redis-example
-
+Simple Node.js and Redis
 To start project
 
 npm install
