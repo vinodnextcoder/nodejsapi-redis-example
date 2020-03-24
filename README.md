@@ -8,3 +8,5 @@ then
 to run project
 
 nodemon server.js
+
+Hit api "http://localhost:3000/api/getUsersData"
