@@ -1,0 +1,33 @@
+{
+  "name": "simple_node",
+  "version": "1.0.0",
+  "description": "simple nodejs api",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodnextcoder/Nodejs_Api.git"
+  },
+  "keywords": [
+    "simple",
+    "nodejs",
+    "api"
+  ],
+  "author": "vinod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodnextcoder/Nodejs_Api/issues"
+  },
+  "homepage": "https://github.com/vinodnextcoder/Nodejs_Api#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mocha": "^7.1.1",
+    "redis": "^3.0.2"
+  }
+}
